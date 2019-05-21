@@ -17,3 +17,6 @@ Weed detection in crops
 
 * [Deep Learning for Plant Disease Detection - Front Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
 
+* [Plant Disease Classifiaction using CNN and Generative Adversial Networks](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
+
+
