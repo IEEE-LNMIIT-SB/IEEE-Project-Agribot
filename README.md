@@ -23,4 +23,6 @@ Weed detection in crops
   
 * [Object Detection and Bounding boxes](https://www.d2l.ai/chapter_computer-vision/bounding-box.html)
 
+* [Stanford Research Paper for Plant Disease Detection](http://cs231n.stanford.edu/reports/2017/pdfs/325.pdf)
+
 
