@@ -15,8 +15,12 @@ Weed detection in crops
 
 * [Integrated IP Approach](https://www.researchgate.net/profile/Diptesh_Majumdar/publication/282783352_REVIEW_DETECTION_DIAGNOSIS_OF_PLANT_LEAF_DISEASE_USING_INTEGRATED_IMAGE_PROCESSING_APPROACH/links/561c76f408ae6d17308b191f.pdf)
 
-* [Deep Learning for Plant Disease Detection - Front Plant Science](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
-
 * [Plant Disease Classifiaction using CNN and Generative Adversial Networks](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
+
+* [Going Deeper with Convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+
+  *This might help to learn about CNN's mentioned in the previous paper i.e. Plant Disease Classification using CNN*
+  
+* [Object Detection and Bounding boxes](https://www.d2l.ai/chapter_computer-vision/bounding-box.html)
 
 
