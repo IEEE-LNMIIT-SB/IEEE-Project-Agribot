@@ -18,10 +18,7 @@ Weed detection in crops
 
 * [Plant Disease Classifiaction using CNN and Generative Adversial Networks](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
+
 * [Going Deeper with Convolutions](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
 
   *This might help to learn about CNN's mentioned in the previous paper i.e. Plant Disease Classification using CNN*
