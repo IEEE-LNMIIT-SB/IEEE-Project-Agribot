@@ -19,3 +19,7 @@ Weed detection in crops
 
 * [Plant Disease Classifiaction using CNN and Generative Adversial Networks](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0007e4bb86ed7c1e785889d6dc3eb88aa06cb41b
