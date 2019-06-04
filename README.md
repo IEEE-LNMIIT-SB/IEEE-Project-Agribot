@@ -30,6 +30,8 @@ Weed detection in crops
 
 * [Stanford Research Paper for Plant Disease Detection](http://cs231n.stanford.edu/reports/2017/pdfs/325.pdf)
 
+* [Plant Leaf Disease Detection and Classification Using Image Processing Techniques](https://pdfs.semanticscholar.org/9426/ae4ea4329521265c738e78221d1aff532537.pdf)
+
 >>>>>>> b5d261f9e1e0cddb9c087d617101f229fd6eccc9
 
 >>>>>>> 0007e4bb86ed7c1e785889d6dc3eb88aa06cb41b
