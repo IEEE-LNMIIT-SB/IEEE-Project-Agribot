@@ -10,8 +10,18 @@ Weed detection in crops
 * Google Doc Link :- [Leaf Detection IEEE](https://docs.google.com/document/d/1nCRV0rKZPA8pAbzRU6rEWbEFcS2zgqy8VJRXBMh19io/edit)
 
   This docs file has the links to the datasets found for leaf detection. It also contains details about different leaf diseases.
-  # Project-UI 
+
+# Project-UI 
   [Github Link](https://github.com/Dharmesh-Poddar/IEEE-Project-Agri-Care)
+  
+# Models created
+
+  [Link to model version 1 using simple CNN](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/blob/master/model/plantvillage.ipynb)
+  
+  Model summary:
+  
+   ![Image of model version 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/modelv1.JPG)
+  
 # Research Papers for reference
 
 * [Integrated IP Approach](https://www.researchgate.net/profile/Diptesh_Majumdar/publication/282783352_REVIEW_DETECTION_DIAGNOSIS_OF_PLANT_LEAF_DISEASE_USING_INTEGRATED_IMAGE_PROCESSING_APPROACH/links/561c76f408ae6d17308b191f.pdf)
