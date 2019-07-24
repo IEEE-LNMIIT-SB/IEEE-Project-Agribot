@@ -14,13 +14,12 @@ Weed detection in crops
 # Project-UI 
   [Github Link](https://github.com/Dharmesh-Poddar/IEEE-Project-Agri-Care)
   
-# Models created
+# Table of Models
 
-  [Link to model version 1 using simple CNN](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/blob/master/model/plantvillage.ipynb)
-  
-  Model summary:
-  
-   ![Image of model version 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/modelv1.JPG)
+  | Sr. No.  | Model description | Link to model summary | % Trained data | Epochs |  Accuracy (Train) | Accuracy (Validation) | 
+  | ---------| ----------------- | --------------------- | -------------- | -------| ----------------- | -------------------- |
+  | 1 | Convolution + Pooling + Dropout + Flatten + Dense | | 10% | 1 | 8.44 % | 8.4375 % |
+  |2|MobilenetV4 + Dropout + LeakyReLU + Dense | | 100% | 5 | 86.27 % | 92.31 % |
   
 # Research Papers for reference
 
