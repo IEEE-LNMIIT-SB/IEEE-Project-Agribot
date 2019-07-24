@@ -18,8 +18,8 @@ Weed detection in crops
 
   | Sr. No.  | Model description | Link to model summary | % Trained data | Epochs |  Accuracy (Train) | Accuracy (Validation) | 
   | ---------| ----------------- | --------------------- | -------------- | -------| ----------------- | -------------------- |
-  | 1 | Convolution + Pooling + Dropout + Flatten + Dense | | 10% | 1 | 8.44 % | 8.4375 % |
-  |2|MobilenetV4 + Dropout + LeakyReLU + Dense | | 100% | 5 | 86.27 % | 92.31 % |
+  | 1 | Convolution + Pooling + Dropout + Flatten + Dense | [Model 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/modelv1.JPG) | 10% | 1 | 8.44 % | 8.4375 % |
+  |2|MobilenetV4 + Dropout + LeakyReLU + Dense | [Model 2](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/modelv2.JPG)| 100% | 5 | 86.27 % | 92.31 % |
   
 # Research Papers for reference
 
@@ -37,6 +37,11 @@ Weed detection in crops
 * [Stanford Research Paper for Plant Disease Detection](http://cs231n.stanford.edu/reports/2017/pdfs/325.pdf)
 
 * [Plant Leaf Disease Detection and Classification Using Image Processing Techniques](https://pdfs.semanticscholar.org/9426/ae4ea4329521265c738e78221d1aff532537.pdf)
+
+# Code References 
+
+* [Tensorflow: Load Data](https://www.tensorflow.org/tutorials/load_data/images)
+* [mc.ai implementation](https://mc.ai/plant-disease-classification-with-tensorflow-2-0/)
 
 # What's next?
 
