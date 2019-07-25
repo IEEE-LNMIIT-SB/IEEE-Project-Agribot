@@ -16,11 +16,12 @@ Weed detection in crops
   
 # Table of Models
 
-  | Sr. No.  | Model description | Link to model summary | % Trained data | Epochs |  Accuracy (Train) | Accuracy (Validation) | 
+  | Sr. No.  | Code | Link to Model summary | Learning rate | Epochs |  Accuracy (Train) | Accuracy (Validation) |
   | ---------| ----------------- | --------------------- | -------------- | -------| ----------------- | -------------------- |
-  | 1 | Convolution + Pooling + Dropout + Flatten + Dense | [Model 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv1.JPG) | 10% | 1 | 8.44 % | 8.4375 % |
-  |2.0|MobileNetV4 + Dropout + Dense(ReLU) + Dropout2 + Dense2 | [Model 2_0](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_0.JPG)| 100% | 5 | 85.69 % | 92.13 % |
-  |2.1|MobileNetV4 + Dropout + Dense(LeakyReLU) + Dropout2 + Dense2 | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 100% | 5 | 87.20 % | 92.40 % |
+  | 1 | [Model 1 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/1) | [Model 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv1.JPG) | 0.01% | 1 | 8.44 % | 8.4375 % |
+  |2.0| [Model 2_0 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_0) | [Model 2_0](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_0.JPG)| 0.01% | 5 | 85.69 % | 92.13 % |
+  |2.1| [Model 2_1 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_1) | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 0.01% | 5 | 87.20 % | 92.40 % |
+  |2.2| [Model 2_2 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_2) | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 0.1% | 5 | 88.52 % | 92.91 % |
   
 # Research Papers for reference
 
