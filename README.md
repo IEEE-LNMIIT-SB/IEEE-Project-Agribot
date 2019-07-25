@@ -18,10 +18,10 @@ Weed detection in crops
 
   | Sr. No.  | Code | Link to Model summary | Learning rate | Epochs |  Accuracy (Train) | Accuracy (Validation) |
   | ---------| ----------------- | --------------------- | -------------- | -------| ----------------- | -------------------- |
-  | 1 | [Model 1 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/1) | [Model 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv1.JPG) | 0.01% | 1 | 8.44 % | 8.4375 % |
-  |2.0| [Model 2_0 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_0) | [Model 2_0](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_0.JPG)| 0.01% | 5 | 85.69 % | 92.13 % |
-  |2.1| [Model 2_1 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_1) | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 0.01% | 5 | 87.20 % | 92.40 % |
-  |2.2| [Model 2_2 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_2) | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 0.1% | 5 | 88.52 % | 92.91 % |
+  | 1 | [Model 1 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/1/model1.ipynb) | [Model 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv1.JPG) | 0.01% | 1 | 8.44 % | 8.4375 % |
+  |2.0| [Model 2_0 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_0/model2_0.ipynb) | [Model 2_0](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_0.JPG)| 0.01% | 5 | 85.69 % | 92.13 % |
+  |2.1| [Model 2_1 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_1/model2_1.ipynb) | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 0.01% | 5 | 87.20 % | 92.40 % |
+  |2.2| [Model 2_2 code](https://github.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/tree/master/models/2_2//model2_2.ipynb) | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 0.1% | 5 | 88.52 % | 92.91 % |
   
 # Research Papers for reference
 
