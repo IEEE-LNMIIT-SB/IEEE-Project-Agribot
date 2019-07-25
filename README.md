@@ -18,7 +18,7 @@ Weed detection in crops
 
   | Sr. No.  | Model description | Link to model summary | % Trained data | Epochs |  Accuracy (Train) | Accuracy (Validation) | 
   | ---------| ----------------- | --------------------- | -------------- | -------| ----------------- | -------------------- |
-  | 1 | Convolution + Pooling + Dropout + Flatten + Dense | [Model 1]https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv1.JPG) | 10% | 1 | 8.44 % | 8.4375 % |
+  | 1 | Convolution + Pooling + Dropout + Flatten + Dense | [Model 1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv1.JPG) | 10% | 1 | 8.44 % | 8.4375 % |
   |2.0|MobileNetV4 + Dropout + Dense(ReLU) + Dropout2 + Dense2 | [Model 2_0](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_0.JPG)| 100% | 5 | 85.69 % | 92.13 % |
   |2.1|MobileNetV4 + Dropout + Dense(LeakyReLU) + Dropout2 + Dense2 | [Model 2_1](https://raw.githubusercontent.com/IEEE-LNMIIT-SB/IEEE-Project-Agribot/master/images/modelv2_1.JPG)| 100% | 5 | 87.20 % | 92.40 % |
   
