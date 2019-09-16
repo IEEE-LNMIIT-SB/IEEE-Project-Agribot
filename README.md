@@ -9,6 +9,8 @@ Initial phase involves:
 # Resources 
 
 * Google Doc Link :- [Leaf Detection IEEE](https://docs.google.com/document/d/1nCRV0rKZPA8pAbzRU6rEWbEFcS2zgqy8VJRXBMh19io/edit)
+* Web app link :- [Web App](https://vigorous-varahamihira-2003fa.netlify.com/)
+* Expected outcome video :- [Camera](https://www.youtube.com/watch?v=kRVcNMAMwF8&feature=youtu.be)
 
   This docs file has the links to the datasets found for leaf detection. It also contains details about different leaf diseases.
 
